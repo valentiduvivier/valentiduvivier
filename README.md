@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valentiduvivier
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning computational mechanics
+- 👀 I’m interested in computing sciences
+- 🌱 I’m currently learning computational mechanics at Sorbonne University
 - 📫 How to reach me : valentin.duvivier@etu.sorbonne-universite.fr
 
 <!---
